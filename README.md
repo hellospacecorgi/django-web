@@ -1,4 +1,4 @@
 # django-web
-checking if ssh keys work
+checking if ssh clone and push work
 
 Following backend web development tutorial in Python with Django
