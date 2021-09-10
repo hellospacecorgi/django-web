@@ -11,6 +11,7 @@ class Product(models.Model):
 	price 		= models.DecimalField(max_digits=10,decimal_places=2)
 	summary		= models.TextField(default='this is a default summary')
 	featured	= models.BooleanField(default=False)
+	
 """
 After changes to models.py , in terminal run
 python manage.py makemigrations
