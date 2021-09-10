@@ -1,0 +1,779 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"loss",
+				"loss_log"
+			],
+			[
+				"acc",
+				"accuracy_log"
+			],
+			[
+				"client",
+				"client_param"
+			],
+			[
+				"aggregate",
+				"aggregate_parameters"
+			],
+			[
+				"receive",
+				"receive_local_model"
+			],
+			[
+				"send",
+				"send_local_model"
+			],
+			[
+				"f",
+				"f"
+			],
+			[
+				"serv",
+				"server_model"
+			],
+			[
+				"socks",
+				"sockets_list"
+			],
+			[
+				"param",
+				"parameters"
+			],
+			[
+				"server",
+				"server_model"
+			],
+			[
+				"train",
+				"training_loss"
+			],
+			[
+				"log",
+				"log_communication_round"
+			],
+			[
+				"num",
+				"num_local_epochs"
+			],
+			[
+				"pickl",
+				"pickled_model"
+			],
+			[
+				"socket",
+				"sockets_list"
+			],
+			[
+				"total",
+				"total_train_samples"
+			],
+			[
+				"feature",
+				"feature_val_pair"
+			],
+			[
+				"get",
+				"get_accuracy"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"cr",
+				"current_size"
+			],
+			[
+				"pow",
+				"power_of_two"
+			],
+			[
+				"initia",
+				"initial_size"
+			],
+			[
+				"block",
+				"block_header"
+			],
+			[
+				"init",
+				"init_block_header"
+			],
+			[
+				"virtual",
+				"virtual_heap"
+			],
+			[
+				"rec",
+				"receive_message"
+			],
+			[
+				"print",
+				"print_board"
+			],
+			[
+				"regu",
+				"regular_minimax"
+			],
+			[
+				"bit",
+				"bits_offset"
+			],
+			[
+				"bits",
+				"bits_offset"
+			],
+			[
+				"fil",
+				"file_ptr"
+			],
+			[
+				"objdump",
+				"objdump_functions"
+			],
+			[
+				"get_",
+				"get_address_in_order_of_appearance"
+			],
+			[
+				"asm_",
+				"asm_symbol"
+			],
+			[
+				"address",
+				"address_exists"
+			],
+			[
+				"program",
+				"program_code"
+			],
+			[
+				"addr",
+				"addr_count"
+			],
+			[
+				"add",
+				"addr_count"
+			],
+			[
+				"addre",
+				"address_exists"
+			],
+			[
+				"toke",
+				"tokenise_by_space"
+			],
+			[
+				"pro",
+				"program_asm"
+			],
+			[
+				"prin",
+				"print_asm"
+			],
+			[
+				"RAM",
+				"RAM_SIZE"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"element",
+				"element_token"
+			],
+			[
+				"world",
+				"world_size"
+			],
+			[
+				"process",
+				"processor_name"
+			],
+			[
+				"VIEW",
+				"VIEW_HEIGHT"
+			],
+			[
+				"n",
+				"n_iterations"
+			],
+			[
+				"V",
+				"VIEW_WIDTH"
+			],
+			[
+				"0x",
+				"0xFF0000FF"
+			],
+			[
+				"sum",
+				"sum_potential"
+			],
+			[
+				"poten",
+				"potential_e"
+			],
+			[
+				"run",
+				"run_with_save"
+			],
+			[
+				"u_y",
+				"u_y"
+			],
+			[
+				"vel",
+				"velocity_y"
+			],
+			[
+				"velo",
+				"velocity_x"
+			],
+			[
+				"bo",
+				"body_array"
+			],
+			[
+				"spin",
+				"spin_unlock"
+			],
+			[
+				"thread",
+				"thread_data"
+			],
+			[
+				"T",
+				"TEST"
+			],
+			[
+				"value",
+				"value_for_segment"
+			],
+			[
+				"msqr",
+				"msquare_fill"
+			],
+			[
+				"matb",
+				"matb"
+			],
+			[
+				"retrieve",
+				"retrieve_file"
+			],
+			[
+				"first",
+				"firstcell"
+			],
+			[
+				"d",
+				"d"
+			],
+			[
+				"commit",
+				"commit_id"
+			],
+			[
+				"MAX",
+				"MAX_FILE_PATH"
+			],
+			[
+				"linear",
+				"trainLinearReg"
+			],
+			[
+				"lamb",
+				"lambda_vec"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"r",
+				"r"
+			],
+			[
+				"numEntries",
+				"numEntries"
+			],
+			[
+				"ga",
+				"GameEntry"
+			],
+			[
+				"s",
+				"super_villains"
+			],
+			[
+				"new_",
+				"new_tuple"
+			],
+			[
+				"Text",
+				"TextBox"
+			],
+			[
+				"Tree",
+				"TreeSet"
+			],
+			[
+				"string",
+				"stringToNumTreeMap"
+			],
+			[
+				"stringto",
+				"stringToNumHashMap"
+			],
+			[
+				"str",
+				"stringToNumTreeMap"
+			],
+			[
+				"ID",
+				"id"
+			],
+			[
+				"person",
+				"personpractice"
+			],
+			[
+				"initial",
+				"initialValue"
+			],
+			[
+				"Strin",
+				"StringBuilder"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"ne",
+				"nextLine"
+			],
+			[
+				"File",
+				"FileNotFoundException"
+			],
+			[
+				"Fi",
+				"FileNotFoundException"
+			],
+			[
+				"phon",
+				"PhoneConnect"
+			],
+			[
+				"Phon",
+				"PhoneON"
+			],
+			[
+				"new",
+				"newBatteryLevel"
+			],
+			[
+				"Batter",
+				"BatteryLife"
+			],
+			[
+				"Phone",
+				"PhoneConnect"
+			],
+			[
+				"Batt",
+				"BatteryLife"
+			],
+			[
+				"Own",
+				"OwnNumber"
+			],
+			[
+				"is",
+				"isPhoneOn"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"padding-",
+				"padding-left"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"ac",
+				"access"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"txt",
+				"text-align"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"backgro",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"theme",
+				"UI: Select Color Scheme"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/chanhiuwunrawr/django-web",
+		"/Users/chanhiuwunrawr/django-web/src"
+	],
+	"file_history":
+	[
+		"/Users/chanhiuwunrawr/aws-python/boto_main.py",
+		"/Users/chanhiuwunrawr/Downloads/substring.py",
+		"/Users/chanhiuwunrawr/Documents/USYD - passed/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/MyClassifier.py",
+		"/Users/chanhiuwunrawr/codingtest/akuna/portfolios.csv",
+		"/Users/chanhiuwunrawr/codingtest/akuna/codepair.py",
+		"/Users/chanhiuwunrawr/codingtest/anagram.py",
+		"/Users/chanhiuwunrawr/codingtest/akuna/codepair_scaffold.py",
+		"/Users/chanhiuwunrawr/Downloads/SCD2_2021_Exam-master 2/src/main/resources/marvel/KeyConfig.json",
+		"/Users/chanhiuwunrawr/Python Programming/DataStructures/linkedlist.py",
+		"/Users/chanhiuwunrawr/Downloads/AWS Cloud Certifications/Solutions Architect/index.html",
+		"/Users/chanhiuwunrawr/Downloads/csp.py",
+		"/Users/chanhiuwunrawr/codingtest/akuna/q10.java",
+		"/Users/chanhiuwunrawr/codingtest/akuna/q7.java",
+		"/Users/chanhiuwunrawr/codingtest/akuna/q6.java",
+		"/Users/chanhiuwunrawr/codingtest/akuna/q2.py",
+		"/Users/chanhiuwunrawr/codingtest/akuna/q8.java",
+		"/Users/chanhiuwunrawr/codingtest/akuna/q9.java",
+		"/Users/chanhiuwunrawr/comp3221/assignment2/comp3221_ass2/Client.py",
+		"/Users/chanhiuwunrawr/comp3221/assignment2/comp3221_ass2/User.py",
+		"/Users/chanhiuwunrawr/comp3221/assignment2/comp3221_ass2/server.py",
+		"/Users/chanhiuwunrawr/comp2017/A5/code-submission/tests.c",
+		"/Users/chanhiuwunrawr/comp2017/A5/code-submission/btreestore.c",
+		"/Users/chanhiuwunrawr/comp2017/A5/code-submission/btreestore.h",
+		"/Users/chanhiuwunrawr/comp2017/A5/code-submission/Makefile",
+		"/Users/chanhiuwunrawr/comp3221/assignment2/comp3221_ass2/.gitignore",
+		"/Users/chanhiuwunrawr/comp2017/A4_playground/server.h",
+		"/Users/chanhiuwunrawr/comp2017/A4_playground/server_functions.c",
+		"/Users/chanhiuwunrawr/comp2017/A4_playground/client.c",
+		"/Users/chanhiuwunrawr/comp2017/A4_playground/getpostfix.c",
+		"/Users/chanhiuwunrawr/comp2017/A4_playground/Makefile",
+		"/Users/chanhiuwunrawr/comp2017/A4_playground/server.c",
+		"/Users/chanhiuwunrawr/comp2017/A4_playground/procchat.c",
+		"/Users/chanhiuwunrawr/soft3202/spacetraders/my-app/frontend/views/addressform/address-form-view.css",
+		"/Users/chanhiuwunrawr/Downloads/samples-master/IDE/IntelliJ/Modular/Gradle/hellofx/src/main/java/module-info.java",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/decision_tree.py",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/Evaluation/MyDT_pima_discrete_CFS.txt",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/MyClassifier.py",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/playground/decision_tree.py",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/playground/MyClassifier.py",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/playground/naive_bayes.py",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/naive_bayes.py",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/MyClassifier.py",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/decision_tree.py",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/README.md",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/mydt_pima_discrete_CFS.txt",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/Evaluation/evaluate_nb.bash",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/Evaluation/evaluate_nb_cfs.bash",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/Evaluation/evaluate_dt.bash",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/Evaluation/evaluate_dt_cfs.bash",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/naive_bayes.py",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/Evaluation/MyClassifier.py",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/Evaluation/README_bash.md",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/evaluate_dt_cfs.bash",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/evaluate_dt.bash",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/evaluate_nb.bash",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/Bash scripts for evaluation/evaluate_dt_cfs.bash",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/Bash scripts for evaluation/evaluate_dt.bash",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/Bash scripts for evaluation/evaluate_nb.bash",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 2/COMP3608-assignment2-2021/submission/evaluate_folds.py",
+		"/Users/chanhiuwunrawr/comp3221/socketProgrammingTutorial/server.py",
+		"/Users/chanhiuwunrawr/comp3221/socketProgrammingTutorial/client.py",
+		"/Users/chanhiuwunrawr/comp3221/socketProgrammingTutorial/chat_server.py",
+		"/Users/chanhiuwunrawr/comp3221/socketProgrammingTutorial/chat_client.py",
+		"/Users/chanhiuwunrawr/comp3221/assignment2/comp3221_ass2/COMP3221_FLServer.py",
+		"/Users/chanhiuwunrawr/comp3221/assignment2/comp3221_ass2/COMP3221_FLClient.py",
+		"/Users/chanhiuwunrawr/comp2017/A1/code-submission/timetable.c",
+		"/Users/chanhiuwunrawr/Downloads/Buddy-System-Malloc-master/main.c",
+		"/Users/chanhiuwunrawr/Downloads/Buddy-System-Malloc-master/buddy.h",
+		"/Users/chanhiuwunrawr/Downloads/Buddy-System-Malloc-master/Makefile",
+		"/Users/chanhiuwunrawr/Downloads/Buddy-System-Malloc-master/buddy.c",
+		"/Users/chanhiuwunrawr/comp2017/A3/code-submission/Makefile",
+		"/Users/chanhiuwunrawr/comp2017/A3/code-submission/tests.c",
+		"/Users/chanhiuwunrawr/comp2017/A3/code-submission/virtual_sbrk.h",
+		"/Users/chanhiuwunrawr/comp2017/A3/code-submission/virtual_alloc.h",
+		"/Users/chanhiuwunrawr/comp2017/A3/code-submission/virtual_alloc.c",
+		"/Users/chanhiuwunrawr/comp2017/archive/2020 S1/assignment-3-jxserver-final-submission/compress.h",
+		"/Users/chanhiuwunrawr/comp2017/A3/code-submission/listbuddy.c",
+		"/Users/chanhiuwunrawr/comp2017/A3/code-submission/binbuddy.c",
+		"/Users/chanhiuwunrawr/comp2017/comp2017_notes/binarytree.c",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3221 Distributed Systems/Socket programming/chat_client.py",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3221 Distributed Systems/Socket programming/chat_server.py",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3221 Distributed Systems/Socket programming/client.py",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3221 Distributed Systems/Socket programming/server.py",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 1/ConnectFour.c",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 1/test/check_three.txt",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 1/Makefile",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 1/ConnectFour.py",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 1/ConnectFour.h",
+		"/Users/chanhiuwunrawr/Downloads/2021 S1 COMP3608 Intro to AI/Assignment 1/num_in_row.c",
+		"/Users/chanhiuwunrawr/codingtest/addTwoNumbers.c",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/src/objdump_x2017.c",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/src/objdump_x2017.h",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/src/vm_x2017.h",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/Makefile",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/src/traverse_byte.c",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/src/vm_x2017.c",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test.sh",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/byte.sh",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/sample_program.txt",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/sample_program.byte",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/example.byte",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/src/print_tests.c",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/vm/test_lotsOfCALs.txt",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/vm/test_LotsOfCALs.out",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/vm/test_deepStack.out",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/vm/test_countdown.out",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/vm/test_REFPTR.out",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/vm/test_doubleIndirection.out",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/vm/test_stackSymbols.out",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/vm/test_JMP.out",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/vm/test_printReg.out",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/vm/test_printStack.out",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/vm/test_printPointer.out",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/vm/test_Pointer.out",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/vm/test_subtraction.out",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/vm/test_printVal.out",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/multi_val.txt",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/multi_val.out",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/multi_val.in",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/loop.txt",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/condition.txt",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/src/vm_functions.c",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/print_stack.x2017",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/src/heap_overflow_vm.c",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/objdump_readme.md",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/sample_program.out",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/test/hello.txt",
+		"/Users/chanhiuwunrawr/comp2017/A2/code-submission/hello.x2017"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "django-web.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/soft3410/hw5/blob2.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 256.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
